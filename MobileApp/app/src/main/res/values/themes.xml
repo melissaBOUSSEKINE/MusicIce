@@ -1,0 +1,51 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MusicApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#909090</item>
+        <item name="colorPrimaryVariant">#909090</item>
+        <item name="colorOnPrimary">#fcf7de</item>
+        <item name="colorPrimaryDark">#737373</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#E18D96</item>
+        <item name="colorSecondaryVariant">#E18D96</item>
+        <item name="colorOnSecondary">#909090</item>
+        <item name="android:textColorPrimary">#ffffff</item>
+    </style>
+
+    <style name="Theme.MusicApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:textColorPrimary">#ffffff</item>
+    </style>
+
+    <style name="Theme.MusicApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#909090</item>
+        <item name="colorPrimaryVariant">#909090</item>
+        <item name="colorOnPrimary">#fcf7de</item>
+        <item name="colorPrimaryDark">#737373</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#E18D96</item>
+        <item name="colorSecondaryVariant">#E18D96</item>
+        <item name="colorOnSecondary">#909090</item>
+        <item name="android:textColorPrimary">#ffffff</item>
+
+    </style>
+
+    <style name="Theme.MusicApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#909090</item>
+        <item name="colorPrimaryVariant">#909090</item>
+        <item name="colorOnPrimary">#fcf7de</item>
+        <item name="colorPrimaryDark">#737373</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#E18D96</item>
+        <item name="colorSecondaryVariant">#E18D96</item>
+        <item name="colorOnSecondary">#909090</item>
+        <item name="android:textColorPrimary">#ffffff</item>
+
+
+    </style>
+
+</resources>
